@@ -1,0 +1,1 @@
+ is a c program recomb.c is a c program that estimates the longest straight line with a slope <0.025 cM/Mb that has no points 2 cM from the line. recomb.tsv is the input dataset for the recombination genetic map of celery as a function of the physical map of celery cv. Challenger. recomb.out is the output dataset.
